@@ -11,4 +11,4 @@ This project demonstrates basic Git and GitHub workflows, including repository c
 ```bash
 python sample_data.py
 
-##<h3>I am happy to begin learning new things! 🚀🎉</h3>
+<h3>I am happy to begin learning new things! 🚀🎉</h3>
