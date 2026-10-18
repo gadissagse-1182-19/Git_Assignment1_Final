@@ -3,10 +3,10 @@ Markdown
 ### Files Included:
 * **`sample_data.py`**: A script containing a sample data array.
 * **`README.md`**: Overview and documentation for the project.
-python sample_data.py
-### I am happy to begin learning new things! 🚀🎉
-* **`README.md`**: Overview and documentation for the project.
 
 ### How to Run
 ```bash
 python sample_data.py
+
+### I am happy to begin learning new things! 🚀🎉
+
