@@ -6,5 +6,4 @@ Markdown
 * **`How to Run`**:```bash
 python sample_data.py
 
-I am happy to begin learning new things! 🚀🎉
-
+<h3>I am happy to begin learning new things! 🚀🎉</h3>
