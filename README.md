@@ -1,5 +1,6 @@
-#  Git & GitHub:Assignment 1 Final: By Gadissa Merga GSE/1182/19
-
+# # Git & GitHub: Assignment 1 Final
+##### *By Gadissa Merga GSE/1182/19*
+ 
 ## Description
 This project demonstrates basic Git and GitHub workflows, including repository creation, commit history, and remote synchronization.
 <h3>I am happy to begin learning new things! 🚀🎉</h3>
